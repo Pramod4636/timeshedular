@@ -1,4 +1,5 @@
 import tkinter
+#this is libarory for GUI 
 root_window=tkinter.Tk()
 root_window.title("To do list ")
 bg_color='#007acc'
